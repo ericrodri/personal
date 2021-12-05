@@ -17,45 +17,51 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
+- title: IES Jimenez Montoya
   title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  date: Jun 2015 - Jun 2017
+  subtitle: Administrator of networked computer systems
   timeline-side: left
 
-- title: Facebook
+- title: Baza Hospital
   title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+  date: Mar 2017 - Jun 2017
+  subtitle: System administrator
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Linux servers
+    - tag: Windows servers
+    - tag: Cisco
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Impulsa Telecom SL
+  title-url: https://impulsatelecom.com/
+  date: Feb 2018 - Oct 2018
+  subtitle: Fullstack developer
+  tags:
+    - tag: PHP
+    - tag: VueJS
+    - tag: Postgres
+    - tag: Docker
+    - tag: MySQL
+  timeline-side: right
+
+- title: IES FOC
+  title-url: https://www.foc.es/
+  date: Sep 2018 - Jun 2019
+  subtitle: Web application development
   timeline-side: left
+
+- title: FitnessKPI
+  title-url: https://www.fitness-kpi.com/es
+  date: Feb 2019 - current
+  subtitle: Fullstack developer
+  tags:
+    - tag: PHP
+    - tag: VueJS
+    - tag: Postgres
+    - tag: Docker
+    - tag: MySQL
+    - tag: TalendOS
+    - tag: BigData
+    - tag: AWS
+  timeline-side: right
