@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: Medical DB
-  descr: "This project was created in 2017 as a project to manage all the stock of hospitals, it was created to know the amount of stock in real time, and automatically notify the supplier."
+  descr: "This project was created in 2017 as a project to manage hospital stock, it was created to know the amount of stock in real time, manage virtual warehouses, generate budgets and automatically notify the supplier."
   demo: https://example.com/
   tags:
     - tag: PHP
