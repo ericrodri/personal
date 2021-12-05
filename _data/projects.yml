@@ -13,21 +13,22 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+- name: Medical DB
+  descr: "This project was created in 2017 as a project to manage all the stock of hospitals, it was created to know the amount of stock in real time, and automatically notify the supplier."
   demo: https://example.com/
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: PHP
+    - tag: Postgres
+    - tag: VueJS
+    - tag: MSQL Server
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+- name: Piraflix
+  descr: "This project was created to manage and facilitate work for telephone companies, you can generate offers, make orders, control employees and see their performance, generate budgets and many other things."
   demo: https://example.com/
   tags:
-    - tag: Python
-    - tag: Django
-
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+    - tag: PHP
+    - tag: MySQL
+    - tag: JavaScript
+    - tag: VueJS
+    - tag: Java
+    - tag: Docker
