@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Expert in application development and system administration, with more than 3 years of experience in the sector.
+about_me_description: Expert in software development and system administration, with more than 3 years of experience in the sector.
 
 # SKILLS SECTION
 # show_skills_card:
