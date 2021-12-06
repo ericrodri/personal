@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: If you are interested in contacting me, I leave you just below a link to all my social networks, thank you very much.
+contact_description: If you are interested in contacting me, you have below my social networks, thanks.
 
 # GITHUB-METADATA
 # Set this to your forked repository
