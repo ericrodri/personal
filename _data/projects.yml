@@ -15,16 +15,14 @@
 
 - name: Medical DB
   descr: "This project was created in 2017 as a project to manage hospital stock, it was created to know the amount of stock in real time, manage virtual warehouses, generate budgets and automatically notify the supplier."
-  demo: https://example.com/
+
   tags:
     - tag: PHP
     - tag: Postgres
     - tag: VueJS
     - tag: MSQL Server
-
 - name: Piraflix
   descr: "This project was created to manage and facilitate work for telephone companies, you can generate offers, make orders, control employees and see their performance, generate budgets and many other things."
-  demo: https://example.com/
   tags:
     - tag: PHP
     - tag: MySQL
