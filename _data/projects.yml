@@ -30,3 +30,12 @@
     - tag: VueJS
     - tag: Java
     - tag: Docker
+- name: Sticky Death
+  descr: "This project was created to manage and facilitate work for telephone companies, you can generate offers, make orders, control employees and see their performance, generate budgets and many other things."
+  tags:
+    - tag: PHP
+    - tag: MySQL
+    - tag: JavaScript
+    - tag: VueJS
+    - tag: Java
+    - tag: Docker
