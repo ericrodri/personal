@@ -31,7 +31,7 @@
     - tag: Java
     - tag: Docker
 - name: Sticky Death
-  descr: "This project is a multiplatform online game. My hobby is developing videogames and this is a small demonstration of that."
+  descr: "This project is a multiplatform online game, my hobby is developing videogames and this is a small demonstration of that."
   tags:
     - tag: Unity
     - tag: C#
