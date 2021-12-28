@@ -31,11 +31,9 @@
     - tag: Java
     - tag: Docker
 - name: Sticky Death
-  descr: "This project was created to manage and facilitate work for telephone companies, you can generate offers, make orders, control employees and see their performance, generate budgets and many other things."
+  descr: "This project is a multiplatform online game. My hobby is developing videogames and this is a small demonstration of that."
   tags:
-    - tag: PHP
-    - tag: MySQL
-    - tag: JavaScript
-    - tag: VueJS
-    - tag: Java
-    - tag: Docker
+    - tag: Unity
+    - tag: C#
+    - tag: PUN2
+    - tag: 2DAnim
