@@ -38,3 +38,10 @@
     - tag: C#
     - tag: PUN2
     - tag: 2DAnim
+- name: Body detection
+  descr: "This project is part of tests carried out with python and OpenCV to detect body parts in real time."
+  demo: https://ericrodri.itch.io/sticky-death
+  tags:
+    - tag: Python
+    - tag: OpenCV
+    - tag: Mediapipe
