@@ -40,7 +40,7 @@
     - tag: 2DAnim
 - name: Body detection
   descr: "This project is part of tests carried out with python and OpenCV to detect body parts in real time."
-  demo: https://ericrodri.itch.io/sticky-death
+  demo: https://github.com/ericrodri/detection_hands
   tags:
     - tag: Python
     - tag: OpenCV
